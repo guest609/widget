@@ -14,7 +14,7 @@ function ml() {
   
     link.type = 'text/css';
       
-    link.href = 'static/css/main.da879972.chunk.css'; 
+    link.href = 'https://frosty-torvalds-2ad244.netlify.app/static/css/main.da879972.chunk.css'; 
 
     // Append link element to HTML head
     document.head.appendChild(link); 
@@ -22,11 +22,11 @@ function ml() {
 
 function ls(url) {
     var script = document.createElement("script");
-    script.src = "static/js/2.88c70fe3.chunk.js";   
+    script.src = "https://frosty-torvalds-2ad244.netlify.app/static/js/2.88c70fe3.chunk.js";   
     document.body.appendChild(script);
    
     var script = document.createElement("script");
-    script.src = "static/js/main.f9065e44.chunk.js";
+    script.src = "https://frosty-torvalds-2ad244.netlify.app/static/js/main.f9065e44.chunk.js";
     document.body.appendChild(script)
 }
 
