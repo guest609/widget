@@ -14,7 +14,7 @@ function ml() {
   
     link.type = 'text/css';
       
-    link.href = 'https://kind-kepler-4629ac.netlify.app/static/css/main.49e5dffc.chunk.css'; 
+    link.href = 'https://kind-kepler-4629ac.netlify.app/static/css/main.9726f38b.chunk.css'; 
 
     // Append link element to HTML head
     document.head.appendChild(link); 
