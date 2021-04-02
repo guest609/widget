@@ -14,7 +14,7 @@ function ml() {
   
     link.type = 'text/css';
       
-    link.href = 'https://frosty-torvalds-2ad244.netlify.app/static/css/main.da879972.chunk.css'; 
+    link.href = 'https://kind-kepler-4629ac.netlify.app/static/css/main.9649dc8f.chunk.css'; 
 
     // Append link element to HTML head
     document.head.appendChild(link); 
@@ -22,11 +22,11 @@ function ml() {
 
 function ls(url) {
     var script = document.createElement("script");
-    script.src = "https://frosty-torvalds-2ad244.netlify.app/static/js/2.88c70fe3.chunk.js";   
+    script.src = "https://kind-kepler-4629ac.netlify.app/static/js/2.88c70fe3.chunk.js";   
     document.body.appendChild(script);
    
     var script = document.createElement("script");
-    script.src = "https://frosty-torvalds-2ad244.netlify.app/static/js/main.f9065e44.chunk.js";
+    script.src = "https://kind-kepler-4629ac.netlify.app/static/js/main.d5aef769.chunk.js";
     document.body.appendChild(script)
 }
 
